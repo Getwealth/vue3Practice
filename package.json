@@ -1,0 +1,19 @@
+{
+    "name": "hellow-world",
+    "description": "hellow  world test app",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "version": "0.0.1",
+    "private": "true",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "ejs": "^3.1.6",
+        "express": "4.17.3",
+        "mockjs": "^1.1.0",
+        "morgan": "^1.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
